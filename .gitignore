@@ -1,7 +1,4 @@
-# IDEs
-.idea/
-
-# Hugo
-resources/
+*.DS_Store
+node_modules/
 public/
-jsconfig.json
+dist/
